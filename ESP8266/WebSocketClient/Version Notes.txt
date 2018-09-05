@@ -1,0 +1,1 @@
+Send basic string continuously to the server after connnecting, via a websocket using port 81
